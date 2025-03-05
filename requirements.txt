@@ -1,0 +1,7 @@
+
+pandas
+gspread
+oauth2client
+langchain_openai
+beautifulsoup4
+requests
